@@ -1,0 +1,10 @@
+The goal of this project is to find a and build a model to help predict sales figures based of certain features of a developing videogame.
+
+EDA.ipyb is the exploration of  a dataset pulled from Kaggle.
+
+Neural model.ipynb is A LTSM model to predict sales
+This model had mean squared error off 0.438,a R squared error of 0.18 and a MSE
+of 0.49
+
+CS2 RFG .ipynb is a regression random forest model.
+With a MSE of 0.078 and a R-squared score of 0.306
